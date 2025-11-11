@@ -31,8 +31,8 @@ requirements.txt — зависимости
 - First-time vs Repeat orders
 
 ### Как запустить
-pip install -r requirements.txt
-python ecom.py
+- pip install -r requirements.txt
+- python ecom.py
 
 
 ### Навыки
