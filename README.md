@@ -7,7 +7,7 @@
 - Проанализировать клиентов и категории товаров
 - Построить графики и подготовить отчет
 
-### 🛠️ Стек
+### Стек
 - Python (Pandas, Matplotlib, SQLite3)
 - SQL
 - VS Code
@@ -19,3 +19,24 @@
 - Top-10 продуктов
 
 ### Структура проекта
+ecom.py — основной скрипт
+outputs/ — графики и csv отчеты
+requirements.txt — зависимости
+
+
+### Визуализации
+- Revenue by category
+- Orders by month
+- Revenue by month
+- First-time vs Repeat orders
+
+### Как запустить
+pip install -r requirements.txt
+python ecom.py
+
+
+### Навыки
+- Data Analysis
+- SQL queries
+- Visualization
+- Data storytelling
